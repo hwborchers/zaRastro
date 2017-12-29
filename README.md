@@ -3,19 +3,19 @@
 ## R Packages for Astronomy
 
 - lira (2017)  
-  Linear regression in Astronomy
+  performs Bayesian linear regression and forecasting in Astronomy, accounting for all kinds of errors and correlations in the data.
 
 - celestial (2017)  
   includes a collection of common astronomical functions and conversion routines, particularly the HMS and degrees schemes.
 
 - astrochron (2017)  
-  Computational tool for astrochronology
+  contains routines for astronomical time scale construction, time series analysis, time scale development, and paleoclimate analysis.
 
 - UPMASK (2017)  
   performs unsupervised photometric membership assignment in stellar clusters using, e.g., photometry and spatial positions.
 
 - SPADAR (2017)  
-  Spherical projections of astronomical data
+  provides functions to create all-sky grid plots of widely used astronomical coordinate systems (equatorial, ecliptic, galactic) and scatter plots of data on any of these systems, including on-the-fly system conversion.
 
 - FITSio (2016)  
   provides utilities to read and write files in the FITS (Flexible Image Transport System) format, a standard format in Astronomy.
