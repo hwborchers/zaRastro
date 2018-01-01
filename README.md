@@ -67,7 +67,7 @@
 
 The book [Modern Statistical Methods for Astronomy With R Applications](http://www.cambridge.org/de/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications) by Feigelson and Babu, Cambridge University Press 2012, provides an introduction to statistics for astronomers and an overview of the foremost methods being used in astrostatistical analysis, illustrated by examples in R. (See also their arXiv preprint [Statistical Methods in Astronomy](https://arxiv.org/abs/1205.2064))
 
-The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https://asaip.psu.edu/forums/software-forum) is an R-centric collection of information and discussions regarding software for statistical analysis in astronomy.
+The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https://asaip.psu.edu/forums/software-forum) is an R-centric collection of information and discussions regarding software for statistical analysis in astronomy. See especially their [Datasets](https://asaip.psu.edu/resources/datasets) page.
 
 [VOStat](http://iopscience.iop.org/article/10.1086/670053/meta): "A Statistical Web Service for Astronomers", providing interactive statistical analysis of astronomical tabular datasets and integrated into the suite of analysis and visualization tools associated with the international Virtual Observatory (VO) through the SAMP communication system.
 
@@ -98,8 +98,8 @@ The purpose of this web site is to act as a community knowledge base for perform
 [Practical Python for Astromomers](https://python4astronomers.github.io/)
 is a series of hands-on workshops to explore the Python language and the powerful analysis tools it provides. The emphasis is on using Python to solve real-world problems that astronomers are likely to encounter in research.
 
-Index of PyPi [Packages Matching 'astronomy'](https://pypi.python.org/
-pypi?%3Aaction=search&term=astronomy).  
+Index of PyPi [Packages Matching 'astronomy'](https://pypi.python.org/pypi?%3Aaction=search&term=astronomy). 
+
 SIEpedia's [Python for astonomers](http://vivaldi.ll.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.EmpezandoPython):
 In this guide you will find which are the most common Python packages and documentation for astronomy.
 
