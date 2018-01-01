@@ -92,8 +92,8 @@ The purpose of this web site is to act as a community knowledge base for perform
 astLib is a set of Python modules that provides some tools for research astronomers. It can be used for astronomical plots, some statistics, common calculations, coordinate conversions, and manipulating FITS images with World Coordinate System (WCS).
 
 [AstroPython](http://www.astropython.org/) (Python for Astronomers):  
-AstroPython [packages](http://www.astropython.org/packages/):  
 The purpose of this web site is to act as a community knowledge base for performing astronomy research with Python. It provides a variety of tutorials, code snippets, resources, lists of useful packages, general discussion, advice and also features news items, event information and announcements.
+(See their list of [packages](http://www.astropython.org/packages/)).  
 
 [Practical Python for Astromomers](https://python4astronomers.github.io/)
 is a series of hands-on workshops to explore the Python language and the powerful analysis tools it provides. The emphasis is on using Python to solve real-world problems that astronomers are likely to encounter in research.
