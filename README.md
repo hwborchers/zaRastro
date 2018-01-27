@@ -2,7 +2,7 @@
 
 ## Statistical Astronomy Links
 
-The book [Modern Statistical Methods for Astronomy With R Applications](http://www.cambridge.org/de/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications) by Feigelson and Babu, Cambridge University Press 2012, provides an introduction to statistics for astronomers and an overview of the foremost methods being used in astrostatistical analysis, illustrated by examples in R. (See also their arXiv preprint [Statistical Methods in Astronomy](https://arxiv.org/abs/1205.2064).)
+The book [Modern Statistical Methods for Astronomy With R Applications](http://www.cambridge.org/de/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications) by Feigelson and Babu, Cambridge University Press 2012, provides an introduction to statistics for astronomers and an overview of the foremost methods being used in astrostatistical analysis, illustrated by examples in R. (See their arXiv preprint [Statistical Methods in Astronomy](https://arxiv.org/abs/1205.2064) and Feigelson's [Tutorials on AstroStatistics](http://rmarkdown.rstudio.com/ioslides_presentation_format.html) and R.)
 
 The Book [Statistics, Data Mining, and Machine Learning in Astronomy](https://press.princeton.edu/titles/10159.html): A Practical Python Guide for the Analysis of Survey Data, by Ivezic, Conolly, VanderPlas, and Gray, Princeton University Press 2014, presents a wealth of practical analysis problems, evaluates techniques for solving them, and explains how to use various approaches for different types ans sizes of data sets.
 
