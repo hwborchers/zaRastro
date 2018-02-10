@@ -37,7 +37,7 @@ The Astrophysics Source Code Library [ASCL.net](http://ascl.net/) is a free onli
   provides functions to determine the movement of the sun from the earth and to determine incident solar radiation.
 
 - RobPer (2016)  
-  calculates periodograms based on (robustly) fitting periodic functions to light curves, i.e., irregularly observed time series, possibly with measurement accuracies, occurring in astroparticle Physics.
+  calculates periodograms based on (robustly) fitting periodic functions to light curves, i.e., irregularly observed time series, possibly with measurement accuracies, occurring in astroparticle Physics.
 
 - SCEPtER (2015)  
   estimating stellar mass, age, and radius given observational data of effective temperature, [Fe/H], and astroseismic parameters, obtained from pre-computed stellar models.
@@ -114,10 +114,11 @@ The [JuliaAstro](https://github.com/JuliaAstro) project lists the following Juli
 - UnitfulAstro.jl: An extension of Unitful.jl for astronomers.
 - AstronomicalTime.jl: Astronomical time keeping in Julia
 - AstroLib.jl: Bundle of small astronomical and astrophysical routines.
+- [Celeste.jl](https://github.com/jeff-regier/Celeste.jl): Scalable inference for a generative model of astronomical images  
+  Finds and characterizes stars and galaxies in astronomical images. It implements variational inference for the generative model.
 - ERFA.jl: Julia wrapper for liberfa
 - EarthOrientation.jl: Calculate Earth orientation parameters from IERS tables in Julia
 - FITSIO.jl: Flexible Image Transport System (FITS) file support for Julia
 - WCS.jl: Astronomical World Coordinate Systems library for Julia
 - Cosmology.jl: Cosmology library for Julia
 - DustExtinction.jl: Models for the interstellar extinction due to dust
-
