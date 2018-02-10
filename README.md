@@ -102,7 +102,7 @@ The purpose of this web site is to act as a community knowledge base for perform
 [Practical Python for Astromomers](https://python4astronomers.github.io/)
 is a series of hands-on workshops to explore the Python language and the powerful analysis tools it provides. The emphasis is on using Python to solve real-world problems that astronomers are likely to encounter in research.
 
-Index of PyPi's [Packages Matching 'astronomy](https://pypi.python.org/pypi?%3Aaction=search&term=astronomy). 
+Index of PyPi's [Packages Matching 'astronomy'](https://pypi.python.org/pypi?%3Aaction=search&term=astronomy). 
 
 SIEpedia's [Python for astonomers](http://vivaldi.ll.iac.es/sieinvens/siepedia/pmwiki.php?n=HOWTOs.EmpezandoPython):
 In this guide you will find which are the most common Python packages and documentation for astronomy.
