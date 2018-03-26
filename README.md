@@ -15,10 +15,10 @@ The Astrophysics Source Code Library [ASCL.net](http://ascl.net/) is a free onli
 
 ## R Packages for Astronomy
 
-- suncalc (2017)  
+- suncalc (2018)  
   calculates sun position, sunlight phases (times for sunrise, sunset, dusk, etc.), moon position and lunar phase for the given location and time; interface to the 'suncalc.js' library, part of the [SunCalc.net](<http://suncalc.net>) project.
 
-- lira (2017)  
+- lira (2018)  
   performs Bayesian linear regression and forecasting in Astronomy, accounting for all kinds of errors and correlations in the data.
 
 - celestial (2017)  
