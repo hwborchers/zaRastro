@@ -14,16 +14,21 @@ The Astrophysics Source Code Library [ASCL.net](http://ascl.net/) is a free onli
 
 ### Astronomy Sites
 
-- [NASA.org](https://www.nasa.gov/) and [Space.com](https://www.space.com/) websites: Space exploration and Astronomy News.
+- [NASA.org](https://www.nasa.gov/) and [Space.com](https://www.space.com/) websites:
+  Space exploration and Astronomy News.
 
 - [Universe Today](https://www.universetoday.com/): Space and Astronomy News.
 
-- [Hubble Site](http://hubblesite.org/)
+- Online Planetarium [The Sky Live](https://theskylive.com/planetarium)
+  and [Astronomie.de](https://www.astronomie.de/) (in German).
+
+- [Hubble Site](http://hubblesite.org/) and the [LIGO](https://www.ligo.caltech.edu/) Observatory
+  (for gravitational waves).
 
 - The [International Space Station](https://www.nasa.gov/mission_pages/station/main/) (ISS) and
   [where it is](http://www.esa.int/Our_Activities/Human_Spaceflight/International_Space_Station/Where_is_the_International_Space_Station) at this moment.
 
-## Exoplanet Data and Graphs
+### Exoplanet Data and Graphs
 
 - The [Exoplanet Data Explorer](http://exoplanets.org/) provides an 
   interactive table and plotter for exploring and displaying data from 
@@ -39,7 +44,9 @@ The Astrophysics Source Code Library [ASCL.net](http://ascl.net/) is a free onli
   of the NASA Exoplanet Science Institute is an online astronomical 
   exoplanet and stellar catalog and data service.
 
-- The [Habitable Zone Gallery](http://www.hzgallery.org/).
+- The [Habitable Zone Gallery](http://www.hzgallery.org/)
+  and [SETI@home](https://setiathome.berkeley.edu/)
+  (see also [Fermi's Paradox](http://fermisparadox.com/)).
 
 
 ## R Packages for Astronomy
