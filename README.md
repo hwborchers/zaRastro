@@ -12,6 +12,35 @@ The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https:/
 
 The Astrophysics Source Code Library [ASCL.net](http://ascl.net/) is a free online registry for source codes of interest to astronomers and astrophysicists and lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications.
 
+### Astronomy Sites
+
+- [NASA.org](https://www.nasa.gov/) and [Space.com](https://www.space.com/) websites: Space exploration and Astronomy News.
+
+- [Universe Today](https://www.universetoday.com/): Space and Astronomy News.
+
+- [Hubble Site](http://hubblesite.org/)
+
+- The [International Space Station](https://www.nasa.gov/mission_pages/station/main/) (ISS) and
+  [where it is](http://www.esa.int/Our_Activities/Human_Spaceflight/International_Space_Station/Where_is_the_International_Space_Station) at this moment.
+
+## Exoplanet Data and Graphs
+
+- The [Exoplanet Data Explorer](http://exoplanets.org/) provides an 
+  interactive table and plotter for exploring and displaying data from 
+  the Exoplanet Orbit Database.
+
+- See also the NASA [Exoplanet Exploration](https://exoplanets.nasa.gov/) 
+  page and the search for life on planets beyond our solar system.
+
+- The [Extrasolar Planets Encyclopaedia](exoplane.eu/catalog) catalogue 
+  and plotting tool.
+
+- The [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) 
+  of the NASA Exoplanet Science Institute is an online astronomical 
+  exoplanet and stellar catalog and data service.
+
+- The [Habitable Zone Gallery](http://www.hzgallery.org/).
+
 
 ## R Packages for Astronomy
 
