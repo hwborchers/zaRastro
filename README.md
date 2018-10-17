@@ -4,13 +4,19 @@
 
 The book [Modern Statistical Methods for Astronomy With R Applications](http://www.cambridge.org/de/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications) by Feigelson and Babu, Cambridge University Press 2012, provides an introduction to statistics for astronomers and an overview of the foremost methods being used in astrostatistical analysis, illustrated by examples in R. (See their arXiv preprint [Statistical Methods in Astronomy](https://arxiv.org/abs/1205.2064) and Feigelson's [Tutorials on AstroStatistics](http://rmarkdown.rstudio.com/ioslides_presentation_format.html) and R.)
 
-The Book [Statistics, Data Mining, and Machine Learning in Astronomy](https://press.princeton.edu/titles/10159.html): A Practical Python Guide for the Analysis of Survey Data, by Ivezic, Conolly, VanderPlas, and Gray, Princeton University Press 2014, presents a wealth of practical analysis problems, evaluates techniques for solving them, and explains how to use various approaches for different types ans sizes of data sets.
+The book [Statistics, Data Mining, and Machine Learning in Astronomy](https://press.princeton.edu/titles/10159.html): A Practical Python Guide for the Analysis of Survey Data, by Ivezic, Conolly, VanderPlas, and Gray, Princeton University Press 2014, presents a wealth of practical analysis problems, evaluates techniques for solving them, and explains how to use various approaches for different types ans sizes of data sets.
 
-The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https://asaip.psu.edu/forums/software-forum) is an R-centric collection of information and discussions regarding software for statistical analysis in astronomy. See especially their [Datasets](https://asaip.psu.edu/resources/datasets) page.
+The book [Bayesian Models for Astrophysical Data](https://www.bayesianmodelsforastrophysicaldata.com/): Using R, Jags, Python and Stan, by Hilbe, de Souza, and Ishida, Cambridge University Press 2017, is a comprehensive guide to Bayesian methods in astronomy,  enabling hands-on work by supplying complete R, JAGS, Python, and Stan code, to use directly or to adapt. It provides the reader with guidelines on how to develop code for modeling such data, as well as on how to evaluate a model as to its fit.
+
+[Bayesian Models in Cosmology](https://arxiv.org/abs/1701.01467) presents an overview of Bayesian statistics, the underlying concepts and application methodology that will be useful to astronomers seeking to analyse and interpret a wide variety of data about the Universe. The level starts from elementary notions, without assuming any previous knowledge of statistical methods, and then progresses to more advanced, research-level topics.
+
+The COsmostatistics INitiative (COIN), a working group built within the International Astrostatistics Association (IAA), aims to create a friendly environment where hands-on collaboration between astronomers, cosmologists, statisticians and machine learning experts can flourish. COIN is designed to promote the development of a new family of tools for data exploration in cosmology, see the [COINtoolbox](http://cointoolbox.github.io/).
 
 [VOStat](http://iopscience.iop.org/article/10.1086/670053/meta): "A Statistical Web Service for Astronomers", providing interactive statistical analysis of astronomical tabular datasets and integrated into the suite of analysis and visualization tools associated with the international Virtual Observatory (VO) through the SAMP communication system.
 
 The Astrophysics Source Code Library [ASCL.net](http://ascl.net/) is a free online registry for source codes of interest to astronomers and astrophysicists and lists codes that have been used in research that has appeared in, or been submitted to, peer-reviewed publications.
+
+The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https://asaip.psu.edu/forums/software-forum) is an R-centric collection of information and discussions regarding software for statistical analysis in astronomy. See especially their [Datasets](https://asaip.psu.edu/resources/datasets) page.
 
 ### Astronomy Sites
 
