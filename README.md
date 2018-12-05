@@ -1,6 +1,8 @@
 # Computational Astronomy
 
-## Statistical Astronomy Links
+## Astronomy Links
+
+### Books on Astronomy and Statistics
 
 The book [Modern Statistical Methods for Astronomy With R Applications](http://www.cambridge.org/de/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications) by Feigelson and Babu, Cambridge University Press 2012, provides an introduction to statistics for astronomers and an overview of the foremost methods being used in astrostatistical analysis, illustrated by examples in R. (See their arXiv preprint [Statistical Methods in Astronomy](https://arxiv.org/abs/1205.2064) and Feigelson's [Tutorials on AstroStatistics](http://rmarkdown.rstudio.com/ioslides_presentation_format.html) and R.)
 
@@ -10,6 +12,8 @@ The book [Bayesian Models for Astrophysical Data](https://www.bayesianmodelsfora
 
 [Bayesian Models in Cosmology](https://arxiv.org/abs/1701.01467) presents an overview of Bayesian statistics, the underlying concepts and application methodology that will be useful to astronomers seeking to analyse and interpret a wide variety of data about the Universe. The level starts from elementary notions, without assuming any previous knowledge of statistical methods, and then progresses to more advanced, research-level topics.
 
+### Software Libraries for Astronomy
+
 The COsmostatistics INitiative (COIN), a working group built within the International Astrostatistics Association (IAA), aims to create a friendly environment where hands-on collaboration between astronomers, cosmologists, statisticians and machine learning experts can flourish. COIN is designed to promote the development of a new family of tools for data exploration in cosmology, see the [COINtoolbox](http://cointoolbox.github.io/).
 
 [VOStat](http://iopscience.iop.org/article/10.1086/670053/meta): "A Statistical Web Service for Astronomers", providing interactive statistical analysis of astronomical tabular datasets and integrated into the suite of analysis and visualization tools associated with the international Virtual Observatory (VO) through the SAMP communication system.
@@ -18,12 +22,21 @@ The Astrophysics Source Code Library [ASCL.net](http://ascl.net/) is a free onli
 
 The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https://asaip.psu.edu/forums/software-forum) is an R-centric collection of information and discussions regarding software for statistical analysis in astronomy. See especially their [Datasets](https://asaip.psu.edu/resources/datasets) page.
 
+### Journals and News
+
+- [Astronomy and Computing](https://www.journals.elsevier.com/astronomy-and-computing) is a peer-reviewed Elsevier journal that focuses on the broad area between astronomy, computer science and information technology. The journal aims to publish the work of scientists and (software) engineers in all aspects of astronomical computing, ...
+
+- [Space and Astronomy News](https://www.technology.org/category/space/astronomy/) and 
+  [Universe Today](https://www.universetoday.com/).
+
+### Research Groups with Software
+
+- [Cosmology Research Group](http://www.cosmology.ethz.ch/) at the ETH Zürich with [Software Lab](http://www.cosmology.ethz.ch/research/software-lab.html). For instance PyCosmo, a Python-based framework to numerically solve the Einstein-Boltzmann equations governing the evolution of linear perturbations in the Universe.
+
 ### Astronomy Sites
 
 - [NASA.org](https://www.nasa.gov/) and [Space.com](https://www.space.com/) websites:
   Space exploration and Astronomy News.
-
-- [Universe Today](https://www.universetoday.com/): Space and Astronomy News.
 
 - Online Planetarium [The Sky Live](https://theskylive.com/planetarium)
   and [Astronomie.de](https://www.astronomie.de/) (in German).
