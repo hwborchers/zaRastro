@@ -57,8 +57,8 @@ The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https:/
 - See also the NASA [Exoplanet Exploration](https://exoplanets.nasa.gov/) 
   page and the search for life on planets beyond our solar system.
 
-- The [Extrasolar Planets Encyclopaedia](exoplane.eu/catalog) catalogue 
-  and plotting tool.
+- The [Extrasolar Planets Encyclopaedia](http://exoplanet.eu/catalog) 
+  catalogue and plotting tool.
 
 - The [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) 
   of the NASA Exoplanet Science Institute is an online astronomical 
@@ -67,6 +67,8 @@ The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https:/
 - The [Habitable Zone Gallery](http://www.hzgallery.org/)
   and [SETI@home](https://setiathome.berkeley.edu/)
   (see also [Fermi's Paradox](http://fermisparadox.com/)).
+
+Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academic/subjects/physics/computational-science-and-modelling/exoplanet-handbook-2nd-edition), Second Edition, Cambridge University Press, UK 2011/2018.
 
 
 ## R Packages for Astronomy
