@@ -26,10 +26,9 @@ The Astrostatistics and Astroinformatics Portal (ASAIP) [Software Forum](https:/
 
 - [Astronomy and Computing](https://www.journals.elsevier.com/astronomy-and-computing) is a peer-reviewed Elsevier journal that focuses on the broad area between astronomy, computer science and information technology. The journal aims to publish the work of scientists and (software) engineers in all aspects of astronomical computing, ...
 
-- [SIMBAD](https://simbad.u-strasbg.fr/simbad/) Astronomical Database: The purpose of Simbad is to provide information on astronomical objects of interest which have been studied in scientific articles.
+- [Nature Astronomy](https://xxx.nature.com/natastron) is a monthly, online-only journal (launched in January 2017) publishing research, review and comment at the cutting edge of astronomy, astrophysics, and planetary science. -- [Space and Astronomy News](https://www.technology.org/category/space/astronomy/) from Technology.org -- [Universe Today](https://www.universetoday.com/) with space and astronomy news..
 
-- [Space and Astronomy News](https://www.technology.org/category/space/astronomy/) and 
-  [Universe Today](https://www.universetoday.com/).
+- [SIMBAD](https://simbad.u-strasbg.fr/simbad/) Astronomical Database: The purpose of Simbad is to provide information on astronomical objects of interest which have been studied in scientific articles.
 
 ### Research Groups with Software
 
