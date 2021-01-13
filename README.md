@@ -76,20 +76,26 @@ Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academi
 
 ## R Packages for Astronomy
 
-- suncalc (2018)  
+- rcosmo (2020)  
+  Cosmic Microwave Background Data Analysis; handling and analysing spherical, HEALPix and Cosmic Microwave Background (CMB) data on a HEALPix grid.
+
+- solaR (2020)  
+  provides functions to determine the movement of the sun from the earth and to determine incident solar radiation.
+
+- astrochron (2019)  
+  contains routines for astronomical time scale construction, time series analysis, time scale development, and paleoclimate analysis.
+
+- suncalc (2019)  
   calculates sun position, sunlight phases (times for sunrise, sunset, dusk, etc.), moon position and lunar phase for the given location and time; interface to the 'suncalc.js' library, part of the [SunCalc.net](<http://suncalc.net>) project.
+
+- UPMASK (2019)  
+  performs unsupervised photometric membership assignment in stellar clusters using, e.g., photometry and spatial positions.
 
 - lira (2018)  
   performs Bayesian linear regression and forecasting in Astronomy, accounting for all kinds of errors and correlations in the data.
 
-- celestial (2017)  
+- celestial (2018)  
   includes a collection of common astronomical functions and conversion routines, particularly the HMS and degrees schemes.
-
-- astrochron (2017)  
-  contains routines for astronomical time scale construction, time series analysis, time scale development, and paleoclimate analysis.
-
-- UPMASK (2017)  
-  performs unsupervised photometric membership assignment in stellar clusters using, e.g., photometry and spatial positions.
 
 - SPADAR (2017)  
   provides functions to create all-sky grid plots of widely used astronomical coordinate systems (equatorial, ecliptic, galactic) and scatter plots of data on any of these systems, including on-the-fly system conversion.
@@ -97,20 +103,11 @@ Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academi
 - FITSio (2016)  
   provides utilities to read and write files in the FITS (Flexible Image Transport System) format, a standard format in Astronomy.
 
-- solaR (2016)  
-  provides functions to determine the movement of the sun from the earth and to determine incident solar radiation.
-
-- RobPer (2016)  
-  calculates periodograms based on (robustly) fitting periodic functions to light curves, i.e., irregularly observed time series, possibly with measurement accuracies, occurring in astroparticle Physics.
-
 - SCEPtER (2015)  
   estimating stellar mass, age, and radius given observational data of effective temperature, [Fe/H], and astroseismic parameters, obtained from pre-computed stellar models.
 
 - SCEPtERbinary (2014)  
   estimating the stellar age for double-lined detached binary systems, adopted from the effective temperature, the metallicity [Fe/H], the mass, and the radius of the two stars.
-
-- astro (2014)  
-  provides tools for astronomy; functions provided may be grouped into 4 main areas: cosmology, FITS file manipulation, the Sersic function and general plotting and scripting routines.
 
 - astrodatR (2014)  
   collects 19 datasets from contemporary astronomy research, many of which are described in the textbook ‘Modern Statistical Methods for Astronomy with R Applications’.
@@ -118,14 +115,8 @@ Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academi
 - astrolibR (2014)  
   presents an R interface to low-level utilities and codes from the Interactive Data Language (IDL) Astronomy Users Library.
 
-- CosmoPhotoz (2014)  
-  performs photometric redshift estimation using generalized linear models.
-
 - CRAC (2014)  
   collects R functions for cosmological research, with its main functions being similar to the python library, cosmolopy.
-
-- moonsun (2013)  
-  provides functions for basic astronomical calculations with R.
 
 - snapshot (2013)  
   contains functions for reading and writing N-body snapshots from the GADGET code for cosmological N-body/SPH simulations.
