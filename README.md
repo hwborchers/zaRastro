@@ -76,58 +76,58 @@ Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academi
 
 ## R Packages for Astronomy
 
-- rcosmo (2020)  
+- [rcosmo](https://cran.r-project.org/package=rcosmo) (2020)  
   Cosmic Microwave Background Data Analysis; handling and analysing spherical, HEALPix and Cosmic Microwave Background (CMB) data on a HEALPix grid.
 
-- solaR (2020)  
+- [solaR](https://cran.r-project.org/package=solaR) (2020)  
   provides functions to determine the movement of the sun from the earth and to determine incident solar radiation.
 
-- astrochron (2019)  
+- [astrochron](https://cran.r-project.org/package=astrochron) (2019)  
   contains routines for astronomical time scale construction, time series analysis, time scale development, and paleoclimate analysis.
 
-- suncalc (2019)  
+- [suncalc](https://cran.r-project.org/package=suncalc) (2019)  
   calculates sun position, sunlight phases (times for sunrise, sunset, dusk, etc.), moon position and lunar phase for the given location and time; interface to the 'suncalc.js' library, part of the [SunCalc.net](<http://suncalc.net>) project.
 
-- UPMASK (2019)  
+- [UPMASK](https://cran.r-project.org/package=UPMASK) (2019)  
   performs unsupervised photometric membership assignment in stellar clusters using, e.g., photometry and spatial positions.
 
-- lira (2018)  
+- [lira](https://cran.r-project.org/package=lira) (2018)  
   performs Bayesian linear regression and forecasting in Astronomy, accounting for all kinds of errors and correlations in the data.
 
-- celestial (2018)  
+- [celestial](https://cran.r-project.org/package=celestial) (2018)  
   includes a collection of common astronomical functions and conversion routines, particularly the HMS and degrees schemes.
 
-- SPADAR (2017)  
+- [SPADAR](https://cran.r-project.org/package=SPADAR) (2017)  
   provides functions to create all-sky grid plots of widely used astronomical coordinate systems (equatorial, ecliptic, galactic) and scatter plots of data on any of these systems, including on-the-fly system conversion.
 
-- FITSio (2016)  
+- [FITSio](https://cran.r-project.org/package=FITSio) (2016)  
   provides utilities to read and write files in the FITS (Flexible Image Transport System) format, a standard format in Astronomy.
 
-- SCEPtER (2015)  
+- [SCEPtER](https://cran.r-project.org/package=SCEPtER) (2015)  
   estimating stellar mass, age, and radius given observational data of effective temperature, [Fe/H], and astroseismic parameters, obtained from pre-computed stellar models.
 
-- SCEPtERbinary (2014)  
+- [SCEPtERbinary](https://cran.r-project.org/package=SCEPtERbinary) (2014)  
   estimating the stellar age for double-lined detached binary systems, adopted from the effective temperature, the metallicity [Fe/H], the mass, and the radius of the two stars.
 
-- astrodatR (2014)  
+- [astrodatR](https://cran.r-project.org/package=astrodatR) (2014)  
   collects 19 datasets from contemporary astronomy research, many of which are described in the textbook ‘Modern Statistical Methods for Astronomy with R Applications’.
 
-- astrolibR (2014)  
+- [astrolibR](https://cran.r-project.org/package=astrolibR) (2014)  
   presents an R interface to low-level utilities and codes from the Interactive Data Language (IDL) Astronomy Users Library.
 
-- CRAC (2014)  
+- [CRAC](https://cran.r-project.org/package=CRAC) (2014)  
   collects R functions for cosmological research, with its main functions being similar to the python library, cosmolopy.
 
-- snapshot (2013)  
+- [snapshot](https://cran.r-project.org/package=snapshot) (2013)  
   contains functions for reading and writing N-body snapshots from the GADGET code for cosmological N-body/SPH simulations.
 
-- stellaR (2013)  
+- [stellaR](https://cran.r-project.org/package=stellaR) (2013)  
   manages and displays stellar evolution tracks and isochrones from the Pisa low-mass database.
 
-- cosmoFns (2012)  
+- [cosmoFns](https://cran.r-project.org/package=cosmoFns) (2012)  
   contains standard expressions for cosmological distances, times, luminosities, etc., and other quantities useful in observational cosmology, including molecular line observations.
 
-- astroFns (2012)  
+- [astroFns](https://cran.r-project.org/package=astroFns) (2012)  
   provides miscellaneous Astronomy (time and position) functions, misc. utilities, and data.
 
 
