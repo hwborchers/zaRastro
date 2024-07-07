@@ -76,59 +76,64 @@ Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academi
 
 ## R Packages for Astronomy
 
-- [rcosmo](https://cran.r-project.org/package=rcosmo) (2020)  
-  Cosmic Microwave Background Data Analysis; handling and analysing spherical, HEALPix and Cosmic Microwave Background (CMB) data on a HEALPix grid.
+- [**astrochron**](https://cran.r-project.org/package=astrochron):
+  *A Computational Tool for Astrochronology* (2024).  
+  Routines for astrochronologic testing, astronomical time scale construction, and time series analysis. Also included are a range of statistical analysis and modeling routines that are relevant to time scale development and paleoclimate analysis.
 
-- [solaR](https://cran.r-project.org/package=solaR) (2020)  
-  provides functions to determine the movement of the sun from the earth and to determine incident solar radiation.
+- [**astrodatR**](https://cran.r-project.org/package=astrodatR):
+  *Astronomical Data* (2014).  
+  A collection of 19 datasets from contemporary astronomical research. They are described the textbook "Modern Statistical Methods for Astronomy with R Applications" by Feigelson and Babu (see above). These datasets can be used to exercise methodology involving: density estimation; heteroscedastic measurement errors; contingency tables; two-sample hypothesis tests; spatial point processes; nonlinear regression; mixture models; censoring and truncation; multivariate analysis; classification and clustering; inhomogeneous Poisson processes; periodic and stochastic time series analysis. 
 
-- [astrochron](https://cran.r-project.org/package=astrochron) (2019)  
-  contains routines for astronomical time scale construction, time series analysis, time scale development, and paleoclimate analysis.
+- [**astroFns**](https://cran.r-project.org/package=astroFns):
+  *Astronomy: Time and Position Functions, Misc. Utilities* (2022).  
+  Miscellaneous astronomy functions, utilities, and data.
 
-- [suncalc](https://cran.r-project.org/package=suncalc) (2019)  
-  calculates sun position, sunlight phases (times for sunrise, sunset, dusk, etc.), moon position and lunar phase for the given location and time; interface to the 'suncalc.js' library, part of the [SunCalc.net](<http://suncalc.net>) project.
+- [**cosmoFns**](https://cran.r-project.org/package=cosmoFns):
+  *Functions for Cosmological Distances, Times, Luminosities, Etc.* (2022).  
+  Package encapsulates standard expressions for distances, times, luminosities, and other quantities useful in observational cosmology, including molecular line observations. Currently coded for a flat universe only.
 
-- [UPMASK](https://cran.r-project.org/package=UPMASK) (2019)  
-  performs unsupervised photometric membership assignment in stellar clusters using, e.g., photometry and spatial positions.
+- [**celestial**](https://cran.r-project.org/package=celestial):
+  *Collection of Common Astronomical Conversion Routines and Functions* (2018).  
+  Contains a number of common astronomy conversion routines, particularly the HMS and degrees schemes, which can be fiddly to convert between on mass due to the textural nature of the former. It allows users to coordinate match datasets quickly. It also contains functions for various cosmological calculations.
 
-- [lira](https://cran.r-project.org/package=lira) (2018)  
-  performs Bayesian linear regression and forecasting in Astronomy, accounting for all kinds of errors and correlations in the data.
+- [**FITSio**](https://cran.r-project.org/package=FITSio):
+  *FITS (Flexible Image Transport System) Utilities* (2021).  
+  Utilities to read and write files in the 
+  [FITS](https://en.wikipedia.org/wiki/FITS) (Flexible Image Transport System) format, a standard format in astronomy. Present low-level routines allow: reading, parsing, and modifying FITS headers; reading FITS images (multi-dimensional arrays); reading FITS binary and ASCII tables; and writing FITS images (multi-dimensional arrays).
 
-- [celestial](https://cran.r-project.org/package=celestial) (2018)  
-  includes a collection of common astronomical functions and conversion routines, particularly the HMS and degrees schemes.
+- [**lira**](https://cran.r-project.org/package=lira):
+  *LInear Regression in Astronomy* (2018).  
+  Performs Bayesian linear regression and forecasting in astronomy. The method accounts for heteroscedastic errors in both the independent and the dependent variables, intrinsic scatters (in both variables) and scatter correlation, time evolution of slopes, normalization, scatters, Malmquist and Eddington bias, upper limits and break of linearity. The posterior distribution of the regression parameters is sampled with a Gibbs method exploiting the JAGS library.
 
-- [SPADAR](https://cran.r-project.org/package=SPADAR) (2017)  
-  provides functions to create all-sky grid plots of widely used astronomical coordinate systems (equatorial, ecliptic, galactic) and scatter plots of data on any of these systems, including on-the-fly system conversion.
+- [**SCEPtER**](https://CRAN.R-project.org/package=SCEPtER) and
+  [**SCEPtERbinary**](https://CRAN.R-project.org/package=SCEPtERbinary):
+  *Stellar CharactEristics Pisa Estimation gRid* (2022).  
+  A pipeline for estimating the stellar age, mass, and radius given observational effective temperature, [Fe/H], and astroseismic parameters. The results are obtained adopting a maximum likelihood technique over a grid of pre-computed stellar models, as described in "Uncertainties in grid-based estimates of stellar mass and radius" by Valle et al.  
+  'SCEPtERbinary' (2013) is an extension of these ideas to binary systems.
 
-- [FITSio](https://cran.r-project.org/package=FITSio) (2016)  
-  provides utilities to read and write files in the FITS (Flexible Image Transport System) format, a standard format in Astronomy.
+- [**snapshot**](https://cran.r-project.org/package=snapshot):
+  *Gadget N-body cosmological simulation code snapshot I/O utilities* (2013).  
+  Functions for reading and writing Gadget N-body snapshots. The Gadget code is popular in astronomy for running N-body / hydrodynamical cosmological and merger simulations. To find out more about Gadget see the main distribution page at [gadget-2](https://www.mpa-garching.mpg.de/gadget/) resp.
+  [gadget-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/).
+  [[Does 'snapshot' run correctly with Gadget-4 from 2020?]]
 
-- [SCEPtER](https://cran.r-project.org/package=SCEPtER) (2015)  
-  estimating stellar mass, age, and radius given observational data of effective temperature, [Fe/H], and astroseismic parameters, obtained from pre-computed stellar models.
+- [**SPADAR**](https://cran.r-project.org/package=SPADAR):
+  *Spherical Projections of Astronomical Data* (2017).  
+  Provides easy to use functions to create all-sky grid plots of widely used astronomical coordinate systems (equatorial, ecliptic, galactic) and scatter plots of data on any of these systems including on-the-fly system conversion. It supports any type of spherical projection to the plane defined by the 'mapproj' package.
 
-- [SCEPtERbinary](https://cran.r-project.org/package=SCEPtERbinary) (2014)  
-  estimating the stellar age for double-lined detached binary systems, adopted from the effective temperature, the metallicity [Fe/H], the mass, and the radius of the two stars.
+- [**stellaR**](https://cran.r-project.org/package=stellaR):
+  *Evolutionary Tracks and Isochrones from Pisa Stellar Evolution Database* (2022).  
+  Manages and display[s] stellar tracks and isochrones from Pisa low-mass database. Includes tools for isochrones construction and tracks interpolation. 
 
-- [astrodatR](https://cran.r-project.org/package=astrodatR) (2014)  
-  collects 19 datasets from contemporary astronomy research, many of which are described in the textbook ‘Modern Statistical Methods for Astronomy with R Applications’.
+- [**suncalc**](https://cran.r-project.org/package=suncalc): *Compute Sun 
+  Position, Sunlight Phases, Moon Position and Lunar Phase* (2022).  
+  Get sun position, sunlight phases (times for sunrise, sunset, dusk, etc.), moon position and lunar phase for the given location and time. Most calculations are based on the formulas given in 
+  [Astronomy Answers](https://www.aa.quae.nl/en/reken/zonpositie.html) articles about position of the sun and the planets. See also the
+  [SunCalc.net](<http://suncalc.net>) project.
 
-- [astrolibR](https://cran.r-project.org/package=astrolibR) (2014)  
-  presents an R interface to low-level utilities and codes from the Interactive Data Language (IDL) Astronomy Users Library.
-
-- [CRAC](https://cran.r-project.org/package=CRAC) (2014)  
-  collects R functions for cosmological research, with its main functions being similar to the python library, cosmolopy.
-
-- [snapshot](https://cran.r-project.org/package=snapshot) (2013)  
-  contains functions for reading and writing N-body snapshots from the GADGET code for cosmological N-body/SPH simulations.
-
-- [stellaR](https://cran.r-project.org/package=stellaR) (2013)  
-  manages and displays stellar evolution tracks and isochrones from the Pisa low-mass database.
-
-- [cosmoFns](https://cran.r-project.org/package=cosmoFns) (2012)  
-  contains standard expressions for cosmological distances, times, luminosities, etc., and other quantities useful in observational cosmology, including molecular line observations.
-
-- [astroFns](https://cran.r-project.org/package=astroFns) (2012)  
-  provides miscellaneous Astronomy (time and position) functions, misc. utilities, and data.
+- [**suntools**](https://cran.r-project.org/package=suntools):
+  *Calculate Sun Position, Sunrise, Sunset, Solar Noon and Twilight* (2023).  
+  Provides a set of convenient functions for calculating sun-related information, including the sun's position (elevation and azimuth), and the times of sunrise, sunset, solar noon, and twilight for any given geographical location on Earth. See "Astronomical Algorithms" by Jean Meeus (1991).
 
 
 ## Python and Julia Packages for Astronomy
