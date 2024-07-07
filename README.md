@@ -96,6 +96,11 @@ Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academi
   *Collection of Common Astronomical Conversion Routines and Functions* (2018).  
   Contains a number of common astronomy conversion routines, particularly the HMS and degrees schemes, which can be fiddly to convert between on mass due to the textural nature of the former. It allows users to coordinate match datasets quickly. It also contains functions for various cosmological calculations.
 
+- [**extraterrestrial**](https://cran.r-project.org/package=extraterrestrial):
+  *Astrobiology Equations Estimating Extraterrestrial Life* (2020).  
+  Finding life outside the planet Earth several is the ultimate goal of an astrobiologist. Using known astronomical measurements and assumptions the probability of extraterrestrial life existence could be estimated. Equations such as the Drake equation (1961) as stated in the paper of Molina "Searching for a standard Drake equation" (2019), Seager "The Drake equation revisited" (2013) and Foucher et al. "A Statistical Approach to Illustrate the Challenge of Astrobiology for Public Outreach" (2017) are included in the 'extraterrestrial' package.
+
+
 - [**FITSio**](https://cran.r-project.org/package=FITSio):
   *FITS (Flexible Image Transport System) Utilities* (2021).  
   Utilities to read and write files in the 
