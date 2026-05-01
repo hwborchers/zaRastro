@@ -77,68 +77,61 @@ Michael Perryman's [The Exoplanet Handbook](https://www.cambridge.org/de/academi
 ## R Packages for Astronomy
 
 - [**astrochron**](https://cran.r-project.org/package=astrochron):
-  *A Computational Tool for Astrochronology* (2024).  
-  Routines for astrochronologic testing, astronomical time scale construction, and time series analysis. Also included are a range of statistical analysis and modeling routines that are relevant to time scale development and paleoclimate analysis.
-
-- [**astrodatR**](https://cran.r-project.org/package=astrodatR):
-  *Astronomical Data* (2014).  
-  A collection of 19 datasets from contemporary astronomical research. They are described the textbook "Modern Statistical Methods for Astronomy with R Applications" by Feigelson and Babu (see above). These datasets can be used to exercise methodology involving: density estimation; heteroscedastic measurement errors; contingency tables; two-sample hypothesis tests; spatial point processes; nonlinear regression; mixture models; censoring and truncation; multivariate analysis; classification and clustering; inhomogeneous Poisson processes; periodic and stochastic time series analysis. 
+  *A Computational Tool for Astrochronology* (2026).  
+  "Routines for astrochronologic testing, astronomical time scale construction, and time series analysis. Also included are a range of statistical analysis and modeling routines that are relevant to time scale development and paleoclimate analysis."
 
 - [**astroFns**](https://cran.r-project.org/package=astroFns):
   *Astronomy: Time and Position Functions, Misc. Utilities* (2022).  
-  Miscellaneous astronomy functions, utilities, and data.
+  "Miscellaneous astronomy functions, utilities, and data."
 
 - [**cosmoFns**](https://cran.r-project.org/package=cosmoFns):
   *Functions for Cosmological Distances, Times, Luminosities, Etc.* (2022).  
-  Package encapsulates standard expressions for distances, times, luminosities, and other quantities useful in observational cosmology, including molecular line observations. Currently coded for a flat universe only.
+  "Package encapsulates standard expressions for distances, times, luminosities, and other quantities useful in observational cosmology, including molecular line observations. Currently coded for a flat universe only."
 
 - [**celestial**](https://cran.r-project.org/package=celestial):
-  *Collection of Common Astronomical Conversion Routines and Functions* (2018).  
-  Contains a number of common astronomy conversion routines, particularly the HMS and degrees schemes, which can be fiddly to convert between on mass due to the textural nature of the former. It allows users to coordinate match datasets quickly. It also contains functions for various cosmological calculations.
+  *Collection of Common Astronomical Conversion Routines and Functions* (2025).  
+  "Contains a number of common astronomy conversion routines, particularly the HMS and degrees schemes, which can be fiddly to convert between on mass due to the textural nature of the former. It allows users to coordinate match datasets quickly. It also contains functions for various cosmological calculations."
 
 - [**extraterrestrial**](https://cran.r-project.org/package=extraterrestrial):
   *Astrobiology Equations Estimating Extraterrestrial Life* (2020).  
-  Finding life outside the planet Earth several is the ultimate goal of an astrobiologist. Using known astronomical measurements and assumptions the probability of extraterrestrial life existence could be estimated. Equations such as the Drake equation (1961) as stated in the paper of Molina "Searching for a standard Drake equation" (2019), Seager "The Drake equation revisited" (2013) and Foucher et al. "A Statistical Approach to Illustrate the Challenge of Astrobiology for Public Outreach" (2017) are included in the 'extraterrestrial' package.
-
+  "Finding life outside the planet Earth several is the ultimate goal of an astrobiologist. Using known astronomical measurements and assumptions the probability of extraterrestrial life existence could be estimated. Equations such as the Drake equation (1961) as stated in the paper of Molina "Searching for a standard Drake equation" (2019), Seager "The Drake equation revisited" (2013) and Foucher et al. "A Statistical Approach to Illustrate the Challenge of Astrobiology for Public Outreach" (2017) are included in the 'extraterrestrial' package."
 
 - [**FITSio**](https://cran.r-project.org/package=FITSio):
   *FITS (Flexible Image Transport System) Utilities* (2021).  
-  Utilities to read and write files in the 
-  [FITS](https://en.wikipedia.org/wiki/FITS) (Flexible Image Transport System) format, a standard format in astronomy. Present low-level routines allow: reading, parsing, and modifying FITS headers; reading FITS images (multi-dimensional arrays); reading FITS binary and ASCII tables; and writing FITS images (multi-dimensional arrays).
+  "Utilities to read and write files in the 
+  [FITS](https://en.wikipedia.org/wiki/FITS) (Flexible Image Transport System) format, a standard format in astronomy. Present low-level routines allow: reading, parsing, and modifying FITS headers; reading FITS images (multi-dimensional arrays); reading FITS binary and ASCII tables; and writing FITS images (multi-dimensional arrays)."
 
 - [**lira**](https://cran.r-project.org/package=lira):
   *LInear Regression in Astronomy* (2018).  
-  Performs Bayesian linear regression and forecasting in astronomy. The method accounts for heteroscedastic errors in both the independent and the dependent variables, intrinsic scatters (in both variables) and scatter correlation, time evolution of slopes, normalization, scatters, Malmquist and Eddington bias, upper limits and break of linearity. The posterior distribution of the regression parameters is sampled with a Gibbs method exploiting the JAGS library.
+  "Performs Bayesian linear regression and forecasting in astronomy. The method accounts for heteroscedastic errors in both the independent and the dependent variables, intrinsic scatters (in both variables) and scatter correlation, time evolution of slopes, normalization, scatters, Malmquist and Eddington bias, upper limits and break of linearity. The posterior distribution of the regression parameters is sampled with a Gibbs method exploiting the JAGS library."
 
 - [**SCEPtER**](https://CRAN.R-project.org/package=SCEPtER) and
   [**SCEPtERbinary**](https://CRAN.R-project.org/package=SCEPtERbinary):
   *Stellar CharactEristics Pisa Estimation gRid* (2022).  
-  A pipeline for estimating the stellar age, mass, and radius given observational effective temperature, [Fe/H], and astroseismic parameters. The results are obtained adopting a maximum likelihood technique over a grid of pre-computed stellar models, as described in "Uncertainties in grid-based estimates of stellar mass and radius" by Valle et al.  
-  'SCEPtERbinary' (2013) is an extension of these ideas to binary systems.
+  "A pipeline for estimating the stellar age, mass, and radius given observational effective temperature, [Fe/H], and astroseismic parameters. The results are obtained adopting a maximum likelihood technique over a grid of pre-computed stellar models, as described in "Uncertainties in grid-based estimates of stellar mass and radius" by Valle et al."
 
 - [**snapshot**](https://cran.r-project.org/package=snapshot):
   *Gadget N-body cosmological simulation code snapshot I/O utilities* (2013).  
-  Functions for reading and writing Gadget N-body snapshots. The Gadget code is popular in astronomy for running N-body / hydrodynamical cosmological and merger simulations. To find out more about Gadget see the main distribution page at [gadget-2](https://www.mpa-garching.mpg.de/gadget/) resp.
-  [gadget-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/).
-  [[Does 'snapshot' run correctly with Gadget-4 from 2020?]]
+  "Functions for reading and writing Gadget N-body snapshots. The Gadget code is popular in astronomy for running N-body / hydrodynamical cosmological and merger simulations. To find out more about Gadget see the main distribution page at [gadget-2](https://www.mpa-garching.mpg.de/gadget/) resp.
+  [gadget-4](https://wwwmpa.mpa-garching.mpg.de/gadget4/)."
 
 - [**SPADAR**](https://cran.r-project.org/package=SPADAR):
   *Spherical Projections of Astronomical Data* (2017).  
-  Provides easy to use functions to create all-sky grid plots of widely used astronomical coordinate systems (equatorial, ecliptic, galactic) and scatter plots of data on any of these systems including on-the-fly system conversion. It supports any type of spherical projection to the plane defined by the 'mapproj' package.
+  "Provides easy to use functions to create all-sky grid plots of widely used astronomical coordinate systems (equatorial, ecliptic, galactic) and scatter plots of data on any of these systems including on-the-fly system conversion. It supports any type of spherical projection to the plane defined by the 'mapproj' package."
 
 - [**stellaR**](https://cran.r-project.org/package=stellaR):
-  *Evolutionary Tracks and Isochrones from Pisa Stellar Evolution Database* (2022).  
-  Manages and display[s] stellar tracks and isochrones from Pisa low-mass database. Includes tools for isochrones construction and tracks interpolation. 
+  *Evolutionary Tracks and Isochrones from Pisa Stellar Evolution Database* (2025).  
+  "Manages and display[s] stellar tracks and isochrones from Pisa low-mass database. Includes tools for isochrones construction and tracks interpolation."
 
-- [**suncalc**](https://cran.r-project.org/package=suncalc): *Compute Sun 
-  Position, Sunlight Phases, Moon Position and Lunar Phase* (2022).  
-  Get sun position, sunlight phases (times for sunrise, sunset, dusk, etc.), moon position and lunar phase for the given location and time. Most calculations are based on the formulas given in 
+- [**suncalc**](https://cran.r-project.org/package=suncalc): 
+  *Compute Sun Position, Sunlight Phases, Moon Position and Lunar Phase* (2022).  
+  "Get sun position, sunlight phases (times for sunrise, sunset, dusk, etc.), moon position and lunar phase for the given location and time. Most calculations are based on the formulas given in 
   [Astronomy Answers](https://www.aa.quae.nl/en/reken/zonpositie.html) articles about position of the sun and the planets. See also the
-  [SunCalc.net](<http://suncalc.net>) project.
+  [SunCalc.net](<http://suncalc.net>) project."
 
 - [**suntools**](https://cran.r-project.org/package=suntools):
-  *Calculate Sun Position, Sunrise, Sunset, Solar Noon and Twilight* (2023).  
-  Provides a set of convenient functions for calculating sun-related information, including the sun's position (elevation and azimuth), and the times of sunrise, sunset, solar noon, and twilight for any given geographical location on Earth. See "Astronomical Algorithms" by Jean Meeus (1991).
+  *Calculate Sun Position, Sunrise, Sunset, Solar Noon and Twilight* (2025).  
+  "Provides a set of convenient functions for calculating sun-related information, including the sun's position (elevation and azimuth), and the times of sunrise, sunset, solar noon, and twilight for any given geographical location on Earth. See "Astronomical Algorithms" by Jean Meeus (1991)."
 
 
 ## Python and Julia Packages for Astronomy
